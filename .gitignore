@@ -1,0 +1,5 @@
+node_modules/
+.env
+db_data/
+.DS_Store
+docker/db_data/
